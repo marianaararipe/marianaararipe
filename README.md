@@ -1,9 +1,3 @@
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marianaararipe.marianaararipe&right_color=purple"  />
-
-###
-
 <h2 align="left">👩🏻‍💻 Mariana Araripe</h2>
 
 ###
