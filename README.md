@@ -1,7 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:e5289e,100:f05138&text=Mariana%20Araripe&section=header&fontColor=fff&fontSize=40&fontAlignY=39&animation=fadeIn" />
 
-
-<h2 align="left">👩🏻‍💻 Mariana Araripe</h2>
+<div align = "center" width = "100%">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anek+Devanagari&weight=500&size=35&pause=1000&color=E5289E&center=true&vCenter=true&width=800&lines=Bem-vindo!;Eu+sou+a+Mariana+Araripe;Desenvolvedora+Web+%26+Mobile" alt="Typing SVG" /></a>
+</div>
 
 ###
 
@@ -82,8 +83,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e5289e,100:f05138&section=footer" />
