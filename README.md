@@ -3,10 +3,19 @@
 <div align = "center" width = "100%">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anek+Devanagari&weight=500&size=35&pause=1000&color=E5289E&center=true&vCenter=true&width=800&lines=Bem-vindo!;Eu+sou+a+Mariana+Araripe;Desenvolvedora+Web+%26+Mobile" alt="Typing SVG" /></a>
 </div>
+<br>
 
 ###
 
-<p align="left">🎓 Atualmente no último ano do curso técnico de **Desenvolvimento de Sistemas**  <br>🏆 3º lugar nacional no **Desafio dos Dados 2024**, representando SP com a equipe *Error 504*  <br>⚛️ Estudando **React.js**, aprofundando conhecimentos em **JavaScript** e **TypeScript**  <br>🧠 Apaixonada por tecnologia, interfaces modernas e projetos com impacto social  <br>🚀 Em constante aprendizado e sempre buscando novos desafios!</p>
+<p align="left">🎓 Atualmente no último ano do curso técnico de **Desenvolvimento de Sistemas**  
+  <br>
+  🏆 3º lugar nacional no **Desafio dos Dados 2024**, representando SP com a equipe *Error 504*  
+  <br>
+  ⚛️ Estudando **React.js**, aprofundando conhecimentos em **JavaScript** e **TypeScript**  
+  <br>
+  🧠 Apaixonada por tecnologia, interfaces modernas e projetos com impacto social  
+  <br>
+  🚀 Em constante aprendizado e sempre buscando novos desafios!</p>
 
 ###
 
