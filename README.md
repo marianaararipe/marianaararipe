@@ -81,9 +81,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/marianaararipe/marianaararipe/output/snake.svg" alt="Snake animation" />
-
-###
