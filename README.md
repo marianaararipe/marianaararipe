@@ -1,3 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e5289e,100:f05138&text=Mariana%20Araripe§ion=header&reversal=false&textBg=false&fontSize=50" />
+
+
 <h2 align="left">👩🏻‍💻 Mariana Araripe</h2>
 
 ###
@@ -81,3 +84,7 @@
 </div>
 
 ###
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e5289e,100:f05138&section=footer" />
+
