@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🎓 Atualmente no último ano do curso técnico de **Desenvolvimento de Sistemas**  
+<p align="left">🎓 Atualmente no último ano do curso técnico de <u>Desenvolvimento de Sistemas</u>
   <br>
   🏆 3º lugar nacional no **Desafio dos Dados 2024**, representando SP com a equipe *Error 504*  
   <br>
