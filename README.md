@@ -9,13 +9,28 @@
 
 <p align="left">🎓 Atualmente no último ano do curso técnico de <u>Desenvolvimento de Sistemas</u>
   <br>
-  🏆 3º lugar nacional no **Desafio dos Dados 2024**, representando SP com a equipe *Error 504*  
-  <br>
   ⚛️ Estudando **React.js**, aprofundando conhecimentos em **JavaScript** e **TypeScript**  
   <br>
   🧠 Apaixonada por tecnologia, interfaces modernas e projetos com impacto social  
   <br>
   🚀 Em constante aprendizado e sempre buscando novos desafios!</p>
+
+###
+
+<h2 align="center">🏆 Conquistas e Projetos</h2>
+
+### 🚀 Vivo Conecta – Desafio dos Dados (2024)  
+> Projeto desenvolvido por mim e meu grupo **Error 504** no **Desafio dos Dados**, promovido pela **Fundação Telefônica Vivo**.  
+> Conquistou 🥉**3º lugar nacionalmente**, apresentando uma solução tecnológica com foco em inovação e impacto social.  
+
+---
+
+### 🧠 Neuro27 – TCC (em desenvolvimento)  
+> **Trabalho de Conclusão de Curso** em desenvolvimento junto ao meu colega **Ivan**.  
+> Aplicativo educacional que explica como **neurotransmissores e partes do cérebro influenciam nas emoções humanas**.  
+> Conquistou 🥉**3º lugar na categoria _Escola Amiga_** na feira científica **Expotec**, promovida pela **ETEC de Leme**.  
+
+---
 
 ###
 
