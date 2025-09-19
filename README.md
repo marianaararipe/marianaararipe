@@ -19,16 +19,22 @@
 
 <h2 align="center">🏆 Conquistas e Projetos</h2>
 
+### 🌐 Vion – Desafio dos Dados (2025)
+> Nossa equipe Error 504 conquistou o 🥈2º lugar nacional no Desafio dos Dados com o protótipo Vion.
+> A solução permite diagnosticar redes domésticas de forma inteligente, oferecendo mais praticidade e segurança para os usuários.
+
+---
+
 ### 🚀 Vivo Conecta – Desafio dos Dados (2024)  
 > Projeto desenvolvido por mim e meu grupo **Error 504** no **Desafio dos Dados**, promovido pela **Fundação Telefônica Vivo**.  
-> Conquistou 🥉**3º lugar nacionalmente**, apresentando uma solução tecnológica com foco em inovação e impacto social.  
+> Ficamos em 🥉**3º lugar nacionalmente**, apresentando uma solução tecnológica com foco em inovação e impacto social.  
 
 ---
 
 ### 🧠 Neuro27 – TCC (em desenvolvimento)  
-> **Trabalho de Conclusão de Curso** em desenvolvimento junto ao meu colega **Ivan**.  
+> **Trabalho de Conclusão de Curso** em desenvolvimento junto à minha colega **Mariana**.  
 > Aplicativo educacional que explica como **neurotransmissores e partes do cérebro influenciam nas emoções humanas**.  
-> Conquistou 🥉**3º lugar na categoria _Escola Amiga_** na feira científica **Expotec**, promovida pela **ETEC de Leme**.  
+> Ficamos em 🥉**3º lugar na categoria _Escola Amiga_** na feira científica **Expotec**, promovida pela **ETEC de Leme**.  
 
 ---
 
