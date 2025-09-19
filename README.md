@@ -7,11 +7,11 @@
 
 ###
 
-<p align="left">🎓 Atualmente no último ano do curso técnico de <u>Desenvolvimento de Sistemas</u>
+<p align="left">🎓 Atualmente no último ano do curso técnico de <strong>Desenvolvimento de Sistemas</strong>
   <br>
-  ⚛️ Estudando **React.js**, aprofundando conhecimentos em **JavaScript** e **TypeScript**  
+  ⚛️ Estudando <strong>React.js</strong>, aprofundando conhecimentos em <strong>JavaScript</strong> e <strong>TypeScript</strong>
   <br>
-  🧠 Apaixonada por tecnologia, interfaces modernas e projetos com impacto social  
+  🧠 Apaixonada por tecnologia, interfaces modernas e projetos com impacto social
   <br>
   🚀 Em constante aprendizado e sempre buscando novos desafios!</p>
 
@@ -20,21 +20,21 @@
 <h2 align="center">🏆 Conquistas e Projetos</h2>
 
 ### 🌐 Vion – Desafio dos Dados (2025)
-> Nossa equipe Error 504 conquistou o 🥈2º lugar nacional no Desafio dos Dados com o protótipo Vion.
+> Nossa equipe Error 504 conquistou o 🥈<strong>2º lugar nacional</strong> no Desafio dos Dados com o protótipo Vion.
 > A solução permite diagnosticar redes domésticas de forma inteligente, oferecendo mais praticidade e segurança para os usuários.
 
 ---
 
 ### 🚀 Vivo Conecta – Desafio dos Dados (2024)  
-> Projeto desenvolvido por mim e meu grupo **Error 504** no **Desafio dos Dados**, promovido pela **Fundação Telefônica Vivo**.  
-> Ficamos em 🥉**3º lugar nacionalmente**, apresentando uma solução tecnológica com foco em inovação e impacto social.  
+> Projeto desenvolvido por mim e meu grupo <strong>Error 504</strong> no <strong>Desafio dos Dados</strong>, promovido pela <strong>Fundação Telefônica Vivo</strong>.  
+> Ficamos em 🥉<strong>3º lugar nacionalmente</strong>, apresentando uma solução tecnológica com foco em inovação e impacto social.  
 
 ---
 
 ### 🧠 Neuro27 – TCC (em desenvolvimento)  
-> **Trabalho de Conclusão de Curso** em desenvolvimento junto à minha colega **Mariana**.  
-> Aplicativo educacional que explica como **neurotransmissores e partes do cérebro influenciam nas emoções humanas**.  
-> Ficamos em 🥉**3º lugar na categoria _Escola Amiga_** na feira científica **Expotec**, promovida pela **ETEC de Leme**.  
+> <strong>Trabalho de Conclusão de Curso</strong> em desenvolvimento junto ao meu colega <strong>Ivan Henrique</strong>.  
+> Aplicativo educacional que explica como <strong>neurotransmissores e partes do cérebro influenciam nas emoções humanas</strong>.  
+> Ficamos em 🥉**3º lugar na categoria _Escola Amiga_** na feira científica **Expotec**, promovida pela <strong>ETEC de Leme</strong>.  
 
 ---
 
