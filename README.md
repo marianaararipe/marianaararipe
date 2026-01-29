@@ -7,7 +7,12 @@
 
 ###
 
-<p align="left">🎓 Atualmente no último ano do curso técnico de <strong>Desenvolvimento de Sistemas</strong>
+<p align="left">
+  🏢 Aprendiz em Soluções Digitais na Bosch Brasil
+  <br>
+  🏫 Aluna do curso de <strong>Desenvolvimento de Sistemas</strong> no Senai Roberto Mange
+  <br>
+  🎓 Técnica no curso de <strong>Desenvolvimento de Sistemas</strong> pela ETEC de Hortolândia
   <br>
   ⚛️ Estudando <strong>React.js</strong>, aprofundando conhecimentos em <strong>JavaScript</strong> e <strong>TypeScript</strong>
   <br>
