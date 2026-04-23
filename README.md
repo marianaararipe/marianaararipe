@@ -1,9 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:e5289e,100:f05138&section=header&fontColor=fff&fontSize=40&fontAlignY=39&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0:e5289e,100:f05138&section=header&fontColor=fff&fontSize=40&fontAlignY=39&animation=fadeIn" />
 
 <div align = "center" width = "100%">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anek+Devanagari&weight=500&size=35&pause=1000&color=E5289E&center=true&vCenter=true&width=800&lines=Bem-vindo!;Eu+sou+a+Mariana+Araripe;Desenvolvedora+Web+%26+Mobile" alt="Typing SVG" /></a>
 </div>
-<br>
 
 ###
 
