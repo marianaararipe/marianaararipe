@@ -13,11 +13,6 @@
   <br>
   🎓 Técnica no curso de <strong>Desenvolvimento de Sistemas</strong> pela ETEC de Hortolândia
   <br>
-  ⚛️ Estudando <strong>React.js</strong>, aprofundando conhecimentos em <strong>JavaScript</strong> e <strong>TypeScript</strong>
-  <br>
-  🧠 Apaixonada por tecnologia, interfaces modernas e projetos com impacto social
-  <br>
-  🚀 Em constante aprendizado e sempre buscando novos desafios!</p>
 
 ###
 
@@ -32,13 +27,6 @@
 ### 🚀 Vivo Conecta – Desafio dos Dados (2024)  
 > Projeto desenvolvido por mim e meu grupo <strong>Error 504</strong> no <strong>Desafio dos Dados</strong>, promovido pela <strong>Fundação Telefônica Vivo</strong>.  
 > Ficamos em 🥉<strong>3º lugar nacionalmente</strong>, apresentando uma solução tecnológica com foco em inovação e impacto social.  
-
----
-
-### 🧠 Neuro27 – TCC (em desenvolvimento)  
-> <strong>Trabalho de Conclusão de Curso</strong> em desenvolvimento junto ao meu colega <strong>Ivan Henrique</strong>.  
-> Aplicativo educacional que explica como <strong>neurotransmissores e partes do cérebro influenciam nas emoções humanas</strong>.  
-> Ficamos em 🥉**3º lugar na categoria _Escola Amiga_** na feira científica **Expotec**, promovida pela <strong>ETEC de Leme</strong>.  
 
 ---
 
@@ -65,7 +53,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
@@ -81,7 +71,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
@@ -110,9 +100,9 @@
 ###
 
 <div align="center">
-  <a href="marianaararipe07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=gray&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  <a href="mailto:marianaararipe07@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=gray&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
   <a href="www.linkedin.com/in/marianaararipe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
